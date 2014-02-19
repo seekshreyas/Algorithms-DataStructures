@@ -1,0 +1,290 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"itsBo",
+				"itsBottomLeft"
+			],
+			[
+				"its",
+				"itsTopRight"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 233.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 655.0
+	},
+	"console":
+	{
+		"height": 131.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/shreyas/Documents/_WorkSpace/CPP/Algo_DS/algo_ds.sublime-project",
+		"/Users/shreyas/Documents/_WorkSpace/CPP/SamsCPP/cpp.sublime-project",
+		"/Users/shreyas/Documents/_WorkSpace/CPP/SamsCPP/ch10-classes/cat.h",
+		"/Users/shreyas/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/shreyas/Library/Application Support/Sublime Text 3/Packages/User/C++.sublime-settings",
+		"/Users/shreyas/Documents/_WorkSpace/CPP/SamsCPP/ch9-references/references.cpp",
+		"/Users/shreyas/Documents/_WorkSpace/CPP/SamsCPP/ch9-references/swap-references.cpp",
+		"/Users/shreyas/Documents/_WorkSpace/CPP/SamsCPP/ch9-references/factors-pointers.cpp",
+		"/Users/shreyas/Documents/_WorkSpace/CPP/SamsCPP/ch9-references/factors-references.cpp",
+		"/Users/shreyas/Documents/_WorkSpace/CPP/SamsCPP/ch9-references/factors-references",
+		"/Users/shreyas/Documents/_WorkSpace/CPP/SamsCPP/ch9-references/factors-returnMultiVal.cpp",
+		"/Users/shreyas/Documents/_WorkSpace/CPP/SamsCPP/ch8/references.cpp",
+		"/Users/shreyas/Documents/_WorkSpace/CPP/SamsCPP/ch8/pointers-allocation.cpp",
+		"/Users/shreyas/Documents/_WorkSpace/CPP/SamsCPP/ch6/fibonacci.cpp",
+		"/Users/shreyas/Documents/_WorkSpace/CPP/SamsCPP/ch6/inlinefunctions.cpp",
+		"/Users/shreyas/Documents/_WorkSpace/CPP/SamsCPP/ch6/power-recursion.cpp",
+		"/Users/shreyas/Documents/_WorkSpace/CPP/SamsCPP/ch1/exercises/ex-1.cpp",
+		"/Users/shreyas/Documents/_WorkSpace/CPP/SamsCPP/ch2/exercises/ex-1.cpp",
+		"/Users/shreyas/Documents/_WorkSpace/CPP/SamsCPP/ch2/exercises/ex-1",
+		"/Users/shreyas/Documents/_Profile/resume/wiki/BehavioralGuide.md",
+		"/Users/shreyas/Documents/_Profile/resume/wiki/AppStatus.md",
+		"/Users/shreyas/Documents/_Profile/resume/wiki/TechGuide.md",
+		"/Users/shreyas/Documents/_Profile/resume/wiki/StatsGuide.md",
+		"/Users/shreyas/Documents/_Profile/resume/wiki/UXGuide.md",
+		"/var/folders/5p/jqdjg7z572d5d40t2pfc2nh80000gn/T/sublime-sftp-browse-1391631926/ischool/home/shreyas/webarch/webarch2013/public_html/index.html",
+		"/var/folders/5p/jqdjg7z572d5d40t2pfc2nh80000gn/T/sublime-sftp-browse-1391631283/ischool/home/shreyas/webarch/webarch2013/public_html/index.html",
+		"/Users/shreyas/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/shreyas/Documents/_Berkeley/sem4/MIMSFinalProj/Chicane/tasks/tasklist.md",
+		"/Users/shreyas/Documents/_Berkeley/sem4/MIMSFinalProj/Chicane/TaskList.md/tasks.md",
+		"/Users/shreyas/Desktop/README.md",
+		"/Users/shreyas/Desktop/sample.py",
+		"/Users/shreyas/Documents/_Profile/resume/resume/CV.txt",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/themes/base/templates/list.tmpl",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/themes/berkeley/templates/story.tmpl",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/themes/berkeley/templates/base.tmpl",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/themes/base/templates/post_list_directive.tmpl",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/themes/base/templates/post_helper.tmpl",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/themes/base/templates/post.tmpl",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/themes/base/bundles",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/themes/base/templates/note.tmpl",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/notes/me.md",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/notes/resume.md",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/themes/bootstrap/templates/bootstrap_helper.tmpl",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/themes/bootstrap/templates/base.tmpl",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/themes/berkeley/templates/index.tmpl",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/output/index.html",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/notes/portfolio.md",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/notes/projects.md",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/files/me.html",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/files/resume.html",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/themes/berkeley/templates/post.tmpl",
+		"/Users/shreyas/Documents/_Profile/nikola-source/seekshreyas/themes/berkeley/templates/index_helper.tmpl",
+		"/Users/shreyas/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/Users/shreyas/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/shreyas/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/shreyas/Documents/_Profile/nikola-source/nikola/__init__.py",
+		"/Users/shreyas/Documents/_Profile/nikola-source/nikola/conf.py.in",
+		"/Users/shreyas/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/shreyas/Documents/_Profile/nikola-source/dodo.py",
+		"/Users/shreyas/Documents/_Profile/nikola-source/setup.py",
+		"/Users/shreyas/Documents/_Profile/nikola-source/.gitignore",
+		"/Users/shreyas/Documents/_Berkeley/sem4/i290TDataMining/slides/git_github_notes.md",
+		"/Users/shreyas/Documents/_Berkeley/sem4/i290TDataMining/slides/2014-01-30-Obtaining-Data.markdown",
+		"/Users/shreyas/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/shreyas/Documents/test.md",
+		"/Users/shreyas/Documents/_Profile/resume/wiki/GeneralGuide.md",
+		"/Users/shreyas/Documents/_Profile/resume/wiki/Home.md",
+		"/Users/shreyas/Documents/_Profile/resume/coverletter/CL.md",
+		"/Users/shreyas/Library/Application Support/Sublime Text 3/Packages/User/Solarized (Light) (SL).tmTheme",
+		"/Users/shreyas/Documents/_Profile/resume/resume/CV.md",
+		"/Users/shreyas/Documents/_Profile/resume/wiki/GlassdoorGuide.md",
+		"/Users/shreyas/Documents/_Profile/resume/wiki/PuzzleGuide.md",
+		"/Users/shreyas/Documents/_Profile/resume/wiki/Company Guide",
+		"/Users/shreyas/Desktop/User/Package Control.last-run",
+		"/Users/shreyas/Documents/_Berkeley/sem3/stat154MachineLearning/ML-Kaggle/rforest.r",
+		"/Users/shreyas/Library/Application Support/Sublime Text 2/Packages/Gist/Gist.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Top",
+			"top",
+			"Top",
+			"Left",
+			"Top",
+			"top",
+			"Top",
+			"*p",
+			"ry",
+			"*p",
+			"Main",
+			"##",
+			"story.tmpl",
+			"story.tmmp",
+			"postbox",
+			"active",
+			"- [ ]",
+			"\n-",
+			"..",
+			".md",
+			"md",
+			"Questions"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 110.0
+	},
+	"output.sftp":
+	{
+		"height": 110.0
+	},
+	"project": "algo_ds.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/_WorkSpace/CPP/SamsCPP/cpp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
